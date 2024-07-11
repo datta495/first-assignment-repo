@@ -1,0 +1,38 @@
+.background-image{
+    background-image: url(Hero-bg.png);}
+    .jam{
+        display: flex;
+        justify-content: space-between;
+        margin: 74px 152px 148px 90px;
+        padding: 80px 97px;
+    }
+.same{
+    text-align: center;
+    margin:50px 80px ;
+    padding: 30px 50px;
+}
+.h2{
+    font-weight: bolder;
+}
+.hw{
+    height: 240px;
+    width: 240px;
+}
+.font{
+    font-weight: 800;
+}
+.po{
+    text-align: center;
+}
+.pi{
+    text-align: center;
+}
+.btn-primary{
+    text-align: center;
+}
+.special{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 5px;
+    gap: 20px;
+}
