@@ -74,5 +74,5 @@
 .hello{
     display: flex;
     justify-content: space-between;
-    border-radius: 0cap;
+    row-gap: 30px;
 }
