@@ -1,15 +1,29 @@
 .background-image{
     background-image: url(Hero-bg.png);}
-    .jam{
-        display: flex;
+    .jam{display: flex;
         justify-content: space-between;
-        margin: 74px 152px 148px 90px;
-        padding: 80px 97px;
+        
+
+        
+    }
+    .head{
+        font-weight: bolder;
+    }
+    .video{
+        text-align: center;
+    }
+    .more{display: flex;
+        justify-content: space-between;
+        
+        grid-column: 32px;
+    }
+    .one{
+        margin:74px 152px 148px 90px;
+    padding: 80px 97px;
     }
 .same{
     text-align: center;
-    margin:50px 80px ;
-    padding: 30px 50px;
+    grid-column: 48px;
 }
 .h2{
     font-weight: bolder;
@@ -35,4 +49,30 @@
     background-color: black;
     border-radius: 5px;
     gap: 20px;
+}
+.he{display: flex;
+    justify-content: space-between;
+    
+    grid-column: 32px;
+}
+.hemi{
+    
+}
+.hero{
+    border-radius: 5px;
+}
+.ss{
+    background-color: antiquewhite;
+}
+.sm{
+    
+    background-color: #004CE8;
+}
+.sc{
+    background-color: #FFFFFF;
+}
+.hello{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 0cap;
 }
